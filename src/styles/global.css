@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+.sombraHeader {
+
+    box-shadow: 5px 5px 5px rgba(92, 91, 91, 0.5);
+
+}
